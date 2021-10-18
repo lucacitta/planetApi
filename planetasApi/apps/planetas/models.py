@@ -29,16 +29,3 @@ class PlanetasApi(models.Model):
 
     def __str__(self):
         return self.name
-
-class AdministradorMailApi(models.Model):
-
-    emailAdministrador = models.EmailField()
-    emailEnvioCorreos = models.EmailField()
-    contraseñaMailEnvioCorreos = models.CharField(max_length=20)
-
-    class Meta:
-        verbose_name = 'Administrador'
-        verbose_name_plural = 'Administrador'
-
-    def __str__(self):
-        return self.emailAdministrador
