@@ -11,6 +11,9 @@ https://www.frontendmentor.io/challenges/planets-fact-site-gazqN8w_f
 
 Si llegases a encontrar algun bug o error, por favor hacermelo saber.
 
+Link de la api con un Frontend, creditos a Camila Paz por esa parte:
+https://cambpaz.github.io/planet-app/
+
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -23,3 +26,6 @@ Endpoints of the api consists of two:
 It should be noted that the information is not mine, but the following link was used.
 https://www.frontendmentor.io/challenges/planets-fact-site-gazqN8w_f
 If you find any bug or error, please let me know.
+
+Link to the Api being used in a Frontend, credits to Camila Paz for the Frontend:
+https://cambpaz.github.io/planet-app/
